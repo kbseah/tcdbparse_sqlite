@@ -1,0 +1,926 @@
+1.A.1	The Voltage-gated Ion Channel (VIC) Superfamily 
+1.A.10	The Glutamate-gated Ion Channel (GIC) Family of Neurotransmitter Receptors
+1.A.11	The Ammonia Transporter Channel (Amt) Family
+1.A.12	The Intracellular Chloride Channel (CLIC) Family
+1.A.13	The Epithelial Chloride Channel (E-ClC) Family
+1.A.14	The Non-selective Cation Channel-1 (NSCC1) Family
+1.A.15	The Non-selective Cation Channel-2 (NSCC2) Family
+1.A.16	The Yeast Stretch-Activated, Cation-Selective, Ca<sup>2+</sup> Channel, Mid1 (Mid1) Family
+1.A.17	The Calcium-Dependent Chloride Channel (Ca-ClC) Family
+1.A.18	The Chloroplast Envelope Anion Channel-forming Tic110 (Tic110) Family
+1.A.19	The Type A Influenza Virus Matrix-2 Channel (M2-C) Family
+1.A.2	Inward Rectifier K<sup>+</sup> Channel (IRK-C) Family
+1.A.20	The BCL2/Adenovirus E1B-interacting Protein 3 (BNip3) Family
+1.A.21	The Bcl-2 (Bcl-2) Family
+1.A.22	The Large Conductance Mechanosensitive Ion Channel (MscL) Family
+1.A.23	The Small Conductance Mechanosensitive Ion Channel (MscS) Family
+1.A.24	The Gap Junction-forming Connexin (Connexin) Family
+1.A.25	The Gap Junction-forming Innexin (Innexin) Family
+1.A.26	The Plant Plasmodesmata (PPD) Family
+1.A.27	The Phospholemman (PLM) Family
+1.A.28	The Urea Transporter (UT) Family
+1.A.29	The Urea/Amide Channel (UAC) Family
+1.A.3	The Ryanodine-Inositol 1,4,5-triphosphate Receptor Ca<sup>2+</sup> Channel (RIR-CaC) Family
+1.A.30	The H<sup>+</sup>- or Na<sup>+</sup>-translocating Bacterial Flagellar Motor/ExbBD Outer Membrane Transport Energizer (Mot/Exb) Superfamily
+1.A.31	The Annexin (Annexin) Family
+1.A.32	The Type B Influenza Virus NB Channel (NB-C) Family
+1.A.33	The Cation Channel-forming Heat Shock Protein-70 (Hsp70) Family
+1.A.34	1.A.34 The Bacillus Gap Junction-like Channel-forming Complex (GJ-CC) Family
+1.A.35	The CorA Metal Ion Transporter (MIT) Family
+1.A.36	The Intracellular Chloride Channel (ICC) Family
+1.A.37	The CD20 Ca<sup>2+</sup> Channel (CD20) Family
+1.A.38	The Golgi pH Regulator (GPHR) Family
+1.A.39	The Type C Influenza Virus CM2 Channel (CM2-C) Family
+1.A.4	The Transient Receptor Potential Ca<sup>2+</sup> Channel (TRP-CC) Family
+1.A.40	The Human Immunodeficiency Virus Type I, HIV-1 (Retrovirdiac) Vpu Channel (Vpu-C) Family
+1.A.41	The Avian Reovirus p10 Viroporin (p10) Family
+1.A.42	The HIV Viral Protein R (Vpr) Family
+1.A.43	The PRD1 Phage DNA Delivery (PRD1-DD)  Family
+1.A.44	The Pore-forming Tail Tip pb2 Protein of Phage T5 (T5-pb2) Family
+1.A.45	The Phage P22 Injectisome (P22 Injectisome) Family
+1.A.46	The Anion Channel-forming Bestrophin (Bestrophin) Family
+1.A.47	The Nucleotide-sensitive Anion-selective Channel, ICln (ICln) Family
+1.A.48	The Anion Channel Tweety (Tweety) Family
+1.A.49	The Mitochondrial Ca<sup>2+</sup> Uniport Channel (MICC) Family
+1.A.5	The Polycystin Cation Channel (PCC) Family
+1.A.50	The Phospholamban (Ca<sup>2+</sup>-channel and Ca<sup>2+</sup>-ATPase Regulator) (PLB) Family
+1.A.51	The Voltage-gated Proton Channel (VPC) Family
+1.A.52	The Ca2+ Release-activated Ca2+ (CRAC) Channel (CRAC-C) Family
+1.A.53	The Hepatitis C Virus P7 Viroporin Cation-selective Channel (HCV-P7) Family
+1.A.54	The Presenilin ER Ca<sup>2+</sup> Leak Channel (Presenilin) Family
+1.A.55	The Synaptic Vesicle-Associated Ca<sup>2+</sup> Channel, Flower (Flower or Cg6151-p) Family
+1.A.56	The Copper Transporter (Ctr) Family
+1.A.57	The Human SARS Caronavirus Viroporin (SARS-VP)
+1.A.58	The Type B Influenza Virus Matrix Protein 2 (BM2-C) Family
+1.A.59	The Bursal Disease Virus Pore-Forming Peptide, Pep46 (Pep46) Family
+1.A.6	The Epithelial Na<sup>+</sup> Channel (ENaC) Family
+1.A.60	The Mammalian Reovirus Pre-forming Peptide, Mu-1 (Mu-1) Family
+1.A.61	The Insect Nodavirus Channel-forming Chain F (Gamma-Peptide) Family
+1.A.62	The Homotrimeric Cation Channel (TRIC) Family
+1.A.63	The <i>Ignicoccus</i> Outer Membrane &alpha;-helical Porin Family
+1.A.64	The Plasmolipin (Plasmolipin) Family
+1.A.65	The Coronavirus Viroporin E Protein (Viroporin E) Family
+1.A.67	The Membrane Mg<sup>2+</sup> Transporter (MMgT) Family 
+1.A.68	The Viral Small Hydrophobic Protein (V-SHP) Family
+1.A.69	The Heteromeric Odorant Receptor Channel (HORC) Family
+1.A.7	The ATP-gated P2X Receptor Cation Channel (P2X Receptor) Family
+1.A.70	The Molecule Against Microbes A (MamA) Family 
+1.A.8	The Major Intrinsic Protein (MIP) Family
+1.A.9	The Neurotransmitter Receptor, Cys loop, Ligand-gated Ion Channel (LIC) Family
+1.B.1	The General Bacterial Porin (GBP) Family
+1.B.10	The Nucleoside-specific Channel-forming Outer Membrane Porin (Tsx) Family
+1.B.11	The Outer Membrane Fimbrial Usher Porin (FUP) Family
+1.B.12	The Autotransporter-1 (AT-1) Family
+1.B.13	The Alginate Export Porin (AEP) Family
+1.B.14	The Outer Membrane Receptor (OMR) Family
+1.B.15	The Raffinose Porin (RafY) Family
+1.B.16	The Short Chain Amide and Urea Porin (SAP) Family
+1.B.17	The Outer Membrane Factor (OMF) Family
+1.B.18	The Outer Membrane Auxiliary (OMA) Protein Family
+1.B.19	The Glucose-selective OprB Porin (OprB) Family
+1.B.2	The Chlamydial Porin (CP) Family
+1.B.20	The Two-Partner Secretion (TPS) Family
+1.B.21	The OmpG Porin (OmpG) Family
+1.B.22	The Outer Bacterial Membrane Secretin (Secretin) Family
+1.B.23	The Cyanobacterial Porin (CBP) Family
+1.B.24	The Mycobacterial Porin (MBP) Family
+1.B.25	The Outer Membrane Porin (OPr) Family
+1.B.26	The Cyclodextrin Porin (CDP) Family
+1.B.27	The Helicobacter Outer Membrane Porin (HOP) Family
+1.B.28	The Plastid Outer Envelope Porin of 24 kDa (OEP24) Family
+1.B.29	The Plastid Outer Envelope Porin of 21 kDa (OEP21) Family
+1.B.3	The Sugar Porin (SP) Family
+1.B.30	The Plastid Outer Envelope Porin of 16 kDa (OEP16) Family
+1.B.31	The Campylobacter jejuni Major Outer Membrane Porin (MomP) Family
+1.B.32	The Fusobacterial Outer Membrane Porin (FomP) Family
+1.B.33	The Outer Membrane Protein Insertion Porin (Bam Complex) (OmpIP) Family
+1.B.34	The Corynebacterial Porin A (PorA) Family
+1.B.35	The Oligogalacturonate-specific Porin (KdgM) Family
+1.B.36	The <I>Borrelia</I> Porin p13 (BP-p13) Family
+1.B.37	The <I>Leptospira</I> Porin OmpL1 (LP-OmpL1) Family
+1.B.38	The <I>Treponema</I> Porin Major Surface Protein (TP-MSP) Family
+1.B.39	The Bacterial Porin, OmpW (OmpW) Family
+1.B.4	The Brucella-Rhizobium Porin (BRP) Family
+1.B.40	The Autotransporter-2 (AT-2) Family
+1.B.41	The Corynebacterial Porin B (PorB) Family
+1.B.42	The Outer Membrane Lipopolysaccharide Export Porin (LPS-EP) Family
+1.B.43	The <i>Coxiella</i> Porin P1 (CPP1) Family
+1.B.44	The Probable Protein Translocating <i>Porphyromonas gingivalis</i> Porin (PorT) Family
+1.B.45	The <i>Treponema</i> Porin (T-por) Family
+1.B.46	The Outer Membrane LolAB Lipoprotein Insertion Apparatus (LolAB) Family
+1.B.47	The Plastid Outer Envelope Porin of 37 kDa (OEP37) Family
+1.B.48	The Curli Fiber Subunit, CsgA, Porin, CsgG (GsgG) Family
+1.B.49	The <i>Anaplasma</i> P44 (A-P44) Porin Family
+1.B.5	The Pseudomonas OprP Porin (POP) Family
+1.B.50	The Acid-fast Bacterial, Outer Membrane Porin (AFB-OMP) Family
+1.B.51	The Oms66 Porin (Oms66P) Family
+1.B.52	The Oms28 Porin (Oms28P) Family
+1.B.53	The Filamentous Phage gp3 Channel-Forming Protein (FP-gp3) Family
+1.B.54	The Intimin/Invasin (Int/Inv) or Autotransporter-3 (AT-3) Family 
+1.B.55	The Poly Acetyl Glucosamine Porin (PgaA) Family
+1.B.56	The Spirochete Outer Membrane Porin (S-OMP Family)
+1.B.57	The Legionella Major-Outer Membrane Protein (LM-OMP) Family
+1.B.6	The OmpA-OmpF Porin (OOP) Family
+1.B.7	The Rhodobacter PorCa Porin (RPP) Family
+1.B.8	The Mitochondrial and Plastid Porin (MPP) Family
+1.B.9	The FadL Outer Membrane Protein (FadL) Family
+1.C.1	The Channel-forming Colicin (Colicin) Family
+1.C.10	The Pore-forming Haemolysin E (HlyE) Family
+1.C.11	The Pore-forming RTX Toxin (RTX-toxin) Family
+1.C.12	Thiol-activated Cholesterol-dependent Cytolysin (CDC) Family
+1.C.13	The Channel-forming Leukocidin Cytotoxin (Ctx) Family
+1.C.14	The Cytohemolysin (CHL) Family
+1.C.15	The Whipworm Stichosome Porin (WSP) Family
+1.C.16	The Magainin (Magainin) Family
+1.C.17	The Cecropin (Cecropin) Family
+1.C.18	The Melittin (Melittin) Family
+1.C.19	The Defensin (Defensin) Family
+1.C.2	The Channel-forming &delta;-Endotoxin Insecticidal Crystal Protein (ICP) Family
+1.C.20	The Nisin (Nisin) Family
+1.C.21	The Lacticin 481 (Lacticin 481) Family
+1.C.22	The Lactococcin A (Lactococcin A) Family
+1.C.23	The Lactocin S (Lactocin S) Family
+1.C.24	The Pediocin (Pediocin) Family
+1.C.25	The Lactococcin G (Lactococcin G) Family
+1.C.26	The Lactacin X (Lactacin X) Family
+1.C.27	The Divergicin A (Divergicin A) Family
+1.C.28	The Bacteriocin AS-48 Cyclic Polypeptide (Bacteriocin AS-48) Family
+1.C.29	The Plantaricin EF (Plantaricin EF) Family
+1.C.3	The &alpha;-Hemolysin Channel-forming Toxin (&alpha;HL) Family
+1.C.30	The Plantaricin JK (Plantaricin JK) Family
+1.C.31	The Channel-forming Colicin V (Colicin V) Family
+1.C.32	The Amphipathic Peptide Mastoparan (Mastoparan) Family
+1.C.33	The Cathelicidin (Cathelicidin) Family
+1.C.34	The Tachyplesin (Tachyplesin) Family
+1.C.35	The Amoebapore (Amoebapore) Family
+1.C.36	The Bacterial Type III-Target Cell Pore (IIITCP) Family
+1.C.37	The Lactococcin 972 (Lactococcin 972) Family
+1.C.38	The Pore-forming Equinatoxin (Equinatoxin) Family
+1.C.39	The Membrane Attack Complex/Perforin (MACPF) Family
+1.C.4	The Aerolysin Channel-forming Toxin (Aerolysin) Family
+1.C.40	The Bactericidal Permeability Increasing Protein (BPIP) Family
+1.C.41	The Tripartite Haemolysin BL (HBL) Family
+1.C.42	The Channel-forming <i>Bacillus anthracis</I> Protective Antigen (BAPA) Family
+1.C.43	The Earthworm Lysenin Toxin (Lysenin) Family
+1.C.44	The Plant Thionine (PT) Family
+1.C.45	The Plant Defensin (Plant Defensin) Family
+1.C.46	The C-type Natriuretic Peptide (CNP) Family
+1.C.47	The Insect/Fungal Defensin (Insect/Fungal Defensin) Family
+1.C.48	The Prion Peptide Fragment (PrP-F) Family
+1.C.49	The Cytotoxic Amylin (Amylin) Family
+1.C.5	The Channel-forming &#949;-toxin (&#949;-toxin) Family
+1.C.50	The Amyloid &#946;-Protein Peptide (A&#946;PP) Family
+1.C.51	The Pilosulin (Pilosulin) Family
+1.C.52	The Dermaseptin (Dermaseptin) Family
+1.C.53	The Lactocyclicin Q (Lactocyclicin Q) Family
+1.C.54	The Shiga Toxin B-Chain (ST-B) Family
+1.C.55	The Agrobacterial VirE2 Target Host Cell Membrane Anion Channel (VirE2) Family
+1.C.56	The Pseudomanas syringae HrpZ Target Host Cell Membrane Cation Channel (HrpZ) Family
+1.C.57	The Clostridial Cytotoxin (CCT) Family
+1.C.58	The Microcin E492/C24 (Microcin E492) Family
+1.C.59	The <I>Clostridium perfringens</I> Enterotoxin (CPE) Family
+1.C.6	The Yeast Killer Toxin K1 (YKT-K1) Family
+1.C.60	The Two-component <I>Enterococcus faecalis</I> Cytolysin (EFC) Family
+1.C.61	The <I>Streptococcus pyogenes</I> Streptolysin S (Streptolysin S) Family
+1.C.62	The <i>Pseudopleuronectes americanus</i> (flounder) Pleurocidin (Pleurocidin) Family
+1.C.63	The &alpha;-Latrotoxin (Latrotoxin) Family
+1.C.64	The Fst Toxin (Fst) Family
+1.C.65	The Type III Secretion System Plant Host Cell Membrane Pore-forming HrpF (HrpF) Family
+1.C.66	The Puroindoline (Puroindoline) Family
+1.C.67	The SphH Hemolysin (SphH) Family
+1.C.68	The Channel-forming Oxyopinin Peptide (Oxyopinin) Family
+1.C.69	The <i>Clostridium perfringens</i> Beta-2 Toxin (Beta-2) Family
+1.C.7	The Diphtheria Toxin (DT) Family
+1.C.70	The Streptococcal Pore-forming CAMP Factor (CAMP-F) Family
+1.C.71	The Cytolytic Delta Endotoxin (Cyt1/2) Family
+1.C.72	The Pertussis Toxin (PTX) Family
+1.C.73	The <i>Pseudomonas</i> Exotoxin A (P-ExoA) Family
+1.C.74	The Snake Cytotoxin (SCT) Family
+1.C.75	The <i>Serratia</i>-type Pore-forming Toxin (S-PFT) Family
+1.C.76	The Pore-forming Maculatin Peptide (Maculatin) Family
+1.C.77	The Synuclein (Synuclein) Family
+1.C.78	The Crystal Protein (Cry) Family
+1.C.79	The Channel-forming Histatin Antimicrobial Peptide (Histatin) Family
+1.C.8	The Botulinum and Tetanus Toxin (BTT) Family
+1.C.80	The Cytotoxic Major Fimbrial Subunit (MrxA) Family
+1.C.81	The Arenicin (Arenicin) Family 
+1.C.82	The Pore-forming Amphipathic Helical Peptide HP(2-20) (HP2-20) Family
+1.C.83	The Gassericin (Gassericin) Family
+1.C.84	The Subtilosin (Subtilosin) Family
+1.C.85	The Pore-Forming &#946;-Defensin (&#946;-Defensin) Family
+1.C.86	The Pore-forming Trialysin (Trialysin) Family
+1.C.87	The Phage P22 Cell Envelope-penetrating Needle (P22-CEN) Family
+1.C.88	The Chrysophsin (Chrysophsin) Family
+1.C.89	The Dynorphin Channel-forming Neuropeptide (Dynorphin) Family
+1.C.9	The Vacuolating Cytotoxin (VacA) Family
+1.C.90	The Carnocyclin A (Carnocyclin) Family
+1.C.91	The Stefin B Pore-forming Protein (Stefin B) Family
+1.C.92	The Pentraxin (Pentraxin) Family
+1.C.93	The Lacticin Q (Lacticin Q) Family
+1.C.94	The Thuricin S (Thuricin S) Family
+1.C.95	The Pore-forming ESAT-6 Protein  (ESAT-6) Family
+1.C.96	The Haemolytic Lectin, CEL-III (CEL-III) Family
+1.D.1	The Gramicidin A (Gramicidin A) Channel Family
+1.D.10	The Ceramide-forming Channel (Ceramide) Family
+1.D.11	The Surfactin (Surfactin) Family
+1.D.12	The Beauvericin (Beauvericin) Family
+1.D.13	DNA-delivery Amphipathic Peptide Antibiotics (DAPA)
+1.D.14	The Synthetic Leu/Ser Amphipathic Channel-forming Peptide (l/S-SCP) Family
+1.D.15	The Daptomycin (Daptomycin) Family
+1.D.16	The Synthetic Amphipathic Pore-forming Heptapeptide (SAPH) Family
+1.D.17	Combinatorially-designed, Pore-forming, &beta;-sheet Peptide (CP&beta;-Peptide) Family
+1.D.18	The Pore-forming Guanosine-Bile Acid Conjugate (GBC) Family
+1.D.19	Ca<sup>2+</sup> Channel-forming Drug, Digitoxin (Digitoxin) Family
+1.D.2	The Channel-forming Syringomycin (Syringomycin) Family
+1.D.20	The Pore-forming Polyene Macrolide Antibiotic/fungal Agent (PMAA) Family
+1.D.21	The Lipid NanoPore (LNP) Family 
+1.D.22	The Proton-Translocating Carotenoid Pigment, Zeaxanthin (Zeaxanthin) Family
+1.D.23	Phenylene Ethynylene Pore-forming Antimicrobial (PEPA) Family
+1.D.3	The Channel-Forming Syringopeptin (Syringopeptin) Family
+1.D.4	The Tolaasin Channel-forming (Tolaasin) Family
+1.D.5	The Alamethicin or Peptaibol Antibiotic Channel-forming (Alamethicin) Family
+1.D.6	The Complexed Poly 3-Hydroxybutyrate Ca<sup>2+</sup> Channel (cPHB-CC) Family
+1.D.7	The Beticolin (Beticolin) Family
+1.D.8	The Saponin (Saponin) Family
+1.D.9	The Polyglutamine Ion Channel (PG-IC) Family
+1.E.1	The P21 Holin S (P21 Holin) Family
+1.E.10	The <I>Bacillus subtilis</I>  &phi;29 Holin (&phi;29 Holin) Family
+1.E.11	The &phi;11 Holin (&phi;11 Holin) Family
+1.E.12	The &phi;Adh Holin (&phi;Adh Holin) Family
+1.E.13	The &phi;U53 Holin (&phi;U53 Holin) Family
+1.E.14	The LrgA Holin (LrgA Holin) Family
+1.E.15	The ArpQ Holin (ArpQ Holin) Family
+1.E.16	The Cph1 Holin (Cph1 Holin) Family
+1.E.17	The BlyA Holin (BlyA Holin) Family
+1.E.18	The <i>Lactococcus lactis</i> Phage r1t Holin (r1t Holin) Family
+1.E.19	The <I>Clostridium difficile</I> TcdE Holin (TcdE Holin) Family
+1.E.2	The <font>&#955;</font> Holin S (<font>&lambda</font> Holin) Family
+1.E.20	The <I>Pseudomonas aeruginosa</I> Hol Holin (Hol Holin) Family
+1.E.21	The <I>Listeria</I> Phage A118 Holin (hol118) Family
+1.E.23	The <i>Bacillus</i> Spore Morphogenesis and Germination Holin (BSH) Family
+1.E.24	The Bacterophase Dp-1 Holin (Dp-1 Holin) Family
+1.E.3	The P2 Holin TM (P2 Holin) Family
+1.E.4	The LydA Holin (LydA Holin) Family
+1.E.5	The PRD1 Phage P35 Holin (P35 Holin) Family
+1.E.6	The T7 Holin (T7 Holin) Family
+1.E.7	The HP1 Holin (HP1 Holin) Family
+1.E.8	The T4 Holin (T4 Holin) Family
+1.E.9	The T4 Immunity Holin (T4 Immunity Holin) Family
+1.F.1	The Synaptosomal Vesicle Fusion Pore (SVF-Pore) Family
+1.G.1	The Viral Pore-forming Membrane Fusion Protein-1 (VMFP1) Family
+1.G.2	The Viral Pore-forming Membrane Fusion Protein-2 (VMFP2) Family
+1.G.3	The Viral Pore-forming Membrane Fusion Protein-3 (VMFP3) Family
+1.G.4	The Viral Pore-forming Membrane Fusion Protein-4 (VMFP4) Family
+1.G.5	The Viral Pore-forming Membrane Fusion Protein-5 (VMFP5) Family
+1.G.6	The Poliovirus 2B Viroporin (2B Viroporin) Family
+1.G.7	The Reovirus FAST Fusion Protein (R-FAST) Famly
+1.H.1	The Claudin Tight Junction (Claudin) Family
+2.A.1	The Major Facilitator Superfamily (MFS)
+2.A.10	The 2-Keto-3-Deoxygluconate Transporter (KDGT) Family
+2.A.100	The Ferroportin (FP) Family
+2.A.11	The Citrate-Mg<sup>2+</sup>:H<sup>+</sup> (CitM) Citrate-Ca<sup>2+</sup>:H<sup>+</sup> (CitH) Symporter (CitMHS) Family
+2.A.12	The ATP:ADP Antiporter (AAA) Family
+2.A.13	The C<sub>4</sub>-Dicarboxylate Uptake (Dcu) Family
+2.A.14	The Lactate Permease (LctP) Family
+2.A.15	The Betaine/Carnitine/Choline Transporter (BCCT) Family
+2.A.16	The Telurite-resistance/Dicarboxylate Transporter (TDT) Family
+2.A.17	The Proton-dependent Oligopeptide Transporter (POT) Family
+2.A.18	The Amino Acid/Auxin Permease (AAAP) Family
+2.A.19	The Ca<sup>2+</sup>:Cation Antiporter (CaCA) Family
+2.A.2	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family
+2.A.20	The Inorganic Phosphate Transporter (PiT) Family
+2.A.21	The Solute:Sodium Symporter (SSS) Family
+2.A.22	The Neurotransmitter:Sodium Symporter (NSS) Family
+2.A.23	The Dicarboxylate/Amino Acid:Cation (Na<sup>+</sup> or H<sup>+</sup>) Symporter (DAACS) Family
+2.A.24	The 2-Hydroxycarboxylate Transporter (2-HCT) Family
+2.A.25	The Alanine or Glycine:Cation Symporter (AGCS) Family
+2.A.26	The Branched Chain Amino Acid:Cation Symporter (LIVCS) Family
+2.A.27	The Glutamate:Na<sup>+</sup> Symporter (ESS) Family
+2.A.28	The Bile Acid:Na<sup>+</sup> Symporter (BASS) Family
+2.A.29	The Mitochondrial Carrier (MC) Family 
+2.A.3	The Amino Acid-Polyamine-Organocation (APC) Family
+2.A.30	The Cation-Chloride Cotransporter (CCC) Family
+2.A.31	The Anion Exchanger (AE) Family
+2.A.32	The Silicon Transporter (Sit) Family
+2.A.33	The NhaA Na<sup>+</sup>:H<sup>+</sup> Antiporter (NhaA) Family
+2.A.34	The NhaB Na<sup>+</sup>:H<sup>+</sup> Antiporter (NhaB) Family
+2.A.35	The NhaC Na<sup>+</sup>:H<sup>+</sup> Antiporter (NhaC) Family
+2.A.36	The Monovalent Cation:Proton Antiporter-1 (CPA1) Family
+2.A.37	The Monovalent Cation:Proton Antiporter-2 (CPA2) Family
+2.A.38	The K<sup>+</sup> Transporter (Trk) Family
+2.A.39	The Nucleobase:Cation Symporter-1 (NCS1) Family
+2.A.4	The Cation Diffusion Facilitator (CDF) Family
+2.A.40	The Nucleobase:Cation Symporter-2 (NCS2) Family
+2.A.41	The Concentrative Nucleoside Transporter (CNT) Family
+2.A.42	The Hydroxy/Aromatic Amino Acid Permease (HAAAP) Family
+2.A.43	The Lysosomal Cystine Transporter (LCT) Family
+2.A.44	The Formate-Nitrite Transporter (FNT) Family
+2.A.45	The Arsenite-Antimonite (ArsB) Efflux Family
+2.A.46	The Benzoate:H+ Symporter (BenE) Family
+2.A.47	The Divalent Anion:Na<sup>+</sup> Symporter (DASS) Family
+2.A.48	The Reduced Folate Carrier (RFC) Family
+2.A.49	The Chloride Carrier/Channel (ClC) Family
+2.A.5	The Zinc (Zn<sup>2+</sup>)-Iron (Fe<sup>2+</sup>) Permease (ZIP) Family
+2.A.50	The Glycerol Uptake (GUP) Family
+2.A.51	The Chromate Ion Transporter (CHR) Family
+2.A.52	The Ni<sup>2+</sup>-Co<sup>2+</sup> Transporter (NiCoT) Family
+2.A.53	The Sulfate Permease (SulP) Family
+2.A.54	The Mitochondrial Tricarboxylate Carrier (MTC) Family
+2.A.55	The Metal Ion (Mn<sup>2+</sup>-iron) Transporter (Nramp) Family
+2.A.56	The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family
+2.A.57	The Equilibrative Nucleoside Transporter (ENT) Family
+2.A.58	The Phosphate:Na<sup>+</sup> Symporter (PNaS) Family
+2.A.59	The Arsenical Resistance-3 (ACR3) Family
+2.A.6	The Resistance-Nodulation-Cell Division (RND) Superfamily
+2.A.60	The Organo Anion Transporter (OAT) Family
+2.A.61	The C<sub>4</sub>-dicarboxylate Uptake C (DcuC) Family
+2.A.62	The NhaD Na<sup>+</sup>:H<sup>+</sup> Antiporter (NhaD) Family
+2.A.63	The Monovalent Cation (K<sup>+</sup> or Na<sup>+</sup>):Proton Antiporter-3 (CPA3) Family
+2.A.64	The Twin Arginine Targeting (Tat) Family
+2.A.65	The Bilirubin Transporter (BRT) Family
+2.A.66	The Multidrug/Oligosaccharidyl-lipid/Polysaccharide (MOP) Flippase Superfamily
+2.A.67	The Oligopeptide Transporter (OPT) Family
+2.A.68	The p-Aminobenzoyl-glutamate Transporter (AbgT) Family
+2.A.69	The Auxin Efflux Carrier (AEC) Family
+2.A.7	The Drug/Metabolite Transporter (DMT) Superfamily
+2.A.70	The Malonate:Na<sup>+</sup> Symporter (MSS) Family
+2.A.71	The Folate-Biopterin Transporter (FBT) Family
+2.A.72	The K<sup>+</sup> Uptake Permease (KUP) Family
+2.A.73	The Short Chain Fatty Acid Uptake (AtoE) Family
+2.A.74	The 4 TMS Multidrug Endosomal Transporter (MET) Family
+2.A.75	The L-Lysine Exporter (LysE) Family
+2.A.76	The Resistance to Homoserine/Threonine (RhtB) Family 
+2.A.77	The Cadmium Resistance (CadD) Family
+2.A.78	The Branched Chain Amino Acid Exporter (LIV-E) Family
+2.A.79	The Threonine/Serine Exporter (ThrE) Family
+2.A.8	The Gluconate:H<sup>+</sup> Symporter (GntP) Family
+2.A.80	The Tricarboxylate Transporter (TTT) Family
+2.A.81	The Aspartate:Alanine Exchanger (AAEx) Family
+2.A.82	The Organic Solute Transporter (OST) Family
+2.A.83	The Na<sup>+</sup>-dependent Bicarbonate Transporter (SBT) Family
+2.A.84	The Chloroplast Maltose Exporter (MEX) Family
+2.A.85	The Aromatic Acid Exporter (ArAE) Family
+2.A.86	The Autoinducer-2 Exporter (AI-2E) Family (Formerly the PerM Family, TC #9.B.22)
+2.A.87	The Prokaryotic Riboflavin Transporter (P-RFT) Family
+2.A.88	Vitamin Uptake Transporter (VUT or ECF) Family
+2.A.89	The Vacuolar Iron Transporter (VIT) Family
+2.A.9	The Cytochrome Oxidase Biogenesis (Oxa1) Family
+2.A.90	The Vitamin A Receptor/Transporter (STRA6) Family
+2.A.91	Mitochondrial tRNA Import Complex (M-RIC) (Formerly 9.C.8)
+2.A.92	The Choline Transporter-like (CTL) Family
+2.A.93	The Unknown BART Superfamily-1 (UBS1) Family
+2.A.94	The Phosphate Permease (Pho1) Family
+2.A.95	The 6TMS Neutral Amino Acid Transporter (NAAT) Family
+2.A.96	The YaaH (YaaH) Family
+2.A.97	The Mitochondrial Inner Membrane K<sup>+</sup>/H<sup>+</sup> and Ca<sup>2+</sup>/H<sup>+</sup> Exchanger (LetM1) Family
+2.A.98	The 10 TMS Putative Sulfate Exporter (PSE) Family
+2.A.99	The 6TMS Ni<sup>2+</sup> uptake transporter (HupE-UreJ) Family 
+2.A.101	The Malonate Uptake (MatC) Family (Formerly UIT1)
+2.A.102	The 4-Toluene Sulfonate Uptake Permease (TSUP) Family
+2.A.103	The Bacterial Murein Precursor Exporter (MPE) Family
+2.A.104	The L-Alanine Exporter (AlaE) Family
+2.A.105	The Mitochondrial Pyruvate Carrier (MPC) Family
+2.A.106	The Ca2+:H+ Antiporter-2 (CaCA2) Family
+2.A.107	The MntP Mn2+ exporter (MntP) Family
+2.A.108	The Iron/Lead Transporter (ILT) Family
+2.A.109	The Tellurium Ion Resistance (TerC) Family
+2.A.110	The heme transporter, heme-responsive gene protein (HRG) Family
+2.A.111	The Na+/H+ Antiporter-E (NhaE) Family
+2.A.112	The KX Blood-group Antigen (KXA) Family
+2.A.113	The Nickel/cobalt Transporter (NicO) Family
+2.A.114	The Putative Peptide Transporter Carbon Starvation CstA (CstA) Family
+2.A.115	The Novobiocin Exporter (NbcE) Family
+2.A.116	The Peptidoglycolipid Addressing Protein (GAP) Family
+2.A.117	The Chlorhexadine Exporter (CHX) family
+2.A.118	The Basic Amino Acid Antiporter (ArcD) Family
+2.A.119	The Organo-Arsenical Exporter (ArsP) Family
+2.A.120	The Putative Amino Acid Permease (PAAP) Family
+2.A.121	The Sulfate Transporter (CysZ) Family
+2.A.122	The LrgB/CidB holin-like auxilary protein (LrgB/CidB) Family
+2.A.123	The Sweet; PQ-loop; Saliva; MtN3 (Sweet) Family
+2.B.1	The Valinomycin Carrier (Valinomycin) Family
+2.B.10	The Synthetic CPP, Transportan (Transportan) Family 
+2.B.11	The HIV-1 TAT Peptide Translocator (HIV-TAT1) Family
+2.B.12	The Salinomycin (Salinomycin) Family
+2.B.2	The Monensin (Monensin) Family
+2.B.3	The Nigericin (Nigericin) Family
+2.B.4	The Macrotetrolide Antibiotic (MA) Family
+2.B.5	The Macrocyclic Polyether (MP) Family
+2.B.6	The Ionomycin (Ionomycin) Family
+2.B.7	The Transmembrane &alpha;-helical Peptide Phospholipid Translocation (TMP-PLT) Family
+2.B.8	The Bafilomycin A1 (Bafilomycin) Family
+2.B.9	The Cell Penetrating Peptide (CPP) Family
+2.C.1	The TonB-ExbB-ExbD/TolA-TolQ-TolR (TonB) Family of Auxiliary Proteins for Energization of Outer Membrane Receptor (OMR)-mediated Active Transport
+3.A.1	The ATP-binding Cassette (ABC) Superfamily
+3.A.10	The H<sup>+</sup>-translocating Pyrophosphatase (H<sup>+</sup>-PPase) Family
+3.A.11	The Bacterial Competence-related DNA Transformation Transporter (DNA-T) Family
+3.A.12	The Septal DNA Translocator (S-DNA-T) Family
+3.A.13	The Filamentous Phage Exporter (FPhE) Family
+3.A.14	The Fimbrilin/Protein Exporter (FPE) Family
+3.A.15	The Outer Membrane Protein Secreting Main Terminal Branch (MTB) Family
+3.A.16	The Endoplasmic Reticular Retrotranslocon (ER-RT) Family
+3.A.17	The Phage T7 Injectisome (T7 Injectisome) Family
+3.A.18	The Nuclear mRNA Exporter (mRNA-E) Family
+3.A.19	The TMS Recognition/Insertion Complex (TRC) Family
+3.A.2	The H<sup>+</sup>- or Na<sup>+</sup>-translocating F-type, V-type and A-type ATPase (F-ATPase) Superfamily
+3.A.20	The Peroxisomal Protein Importer (PPI) Family
+3.A.21	The C-terminal Tail-Anchored Membrane Protein Biogenesis/ Insertion Complex (TAMP-B) Family
+3.A.22	The Transcription-coupled TREX/TAP Nuclear mRNA Export Complex (TREX) Family
+3.A.23	The Type VI Symbiosis/Virulence Secretory Pathway (VISP) Family
+3.A.24	Type VII or ESX Protein Secretion System (T7SS) Family
+3.A.25	The Symbiont-specific ERAD-like Machinery (SELMA) Family
+3.A.3	The P-type ATPase (P-ATPase) Superfamily
+3.A.4	The Arsenite-Antimonite (ArsAB) Efflux Family
+3.A.5	The General Secretory Pathway (Sec) Family
+3.A.6	The Type III (Virulence-related) Secretory Pathway (IIISP) Family
+3.A.7	The Type IV (Conjugal DNA-Protein Transfer or VirB) Secretory Pathway (IVSP) Family
+3.A.8	The Mitochondrial Protein Translocase (MPT) Family
+3.A.9	The Chloroplast Envelope Protein Translocase (CEPT or Tic-Toc) Family
+3.B.1	The Na<sup>+</sup>-transporting Carboxylic Acid Decarboxylase (NaT-DC) Family
+3.C.1	The Na<sup>+</sup> Transporting Methyltetrahydromethanopterin:Coenzyme M Methyltransferase (NaT-MMM) Family
+3.D.1	The H<sup>+</sup> or Na<sup>+</sup>-translocating NADH Dehydrogenase (NDH) Family
+3.D.2	The Proton-translocating Transhydrogenase (PTH) Family
+3.D.3	The Proton-translocating Quinol:Cytochrome c Reductase (QCR) Superfamily
+3.D.4	The Proton-translocating Cytochrome Oxidase (COX) Superfamily
+3.D.5	The Na<sup>+</sup>-translocating NADH:Quinone Dehydrogenase (Na-NDH) Family
+3.D.6	The Putative Ion (H<sup>+</sup> or Na<sup>+</sup>)-translocating NADH:Ferredoxin Oxidoreductase (NFO) Family
+3.D.7	The H<sub>2</sub>:Heterodisulfide Oxidoreductase (HHO) Family
+3.D.8	The Na<sup>+</sup>- or H<sup>+</sup>-Pumping Formyl Methanofuran Dehydrogenase (FMF-DH) Family
+3.D.9	The H<sup>+</sup>-translocating F<sub>420</sub>H<sub>2</sub> Dehydrogenase (F<sub>420</sub>H<sub>2</sub>DH) Family
+3.D.10	The Prokaryotic Succinate Dehydrogenase (SDH) Family
+3.E.1	The Ion-translocating Microbial Rhodopsin (MR) Family
+3.E.2	The Photosynthetic Reaction Center (PRC) Family
+4.A.1	The PTS Glucose-Glucoside (Glc) Family
+4.A.2	The PTS Fructose-Mannitol (Fru) Family
+4.A.3	The PTS Lactose-N,N'-Diacetylchitobiose-&#946;-glucoside (Lac) Family
+4.A.4	The PTS Glucitol (Gut) Family
+4.A.5	The PTS Galactitol (Gat) Family
+4.A.6	The PTS Mannose-Fructose-Sorbose (Man) Family
+4.A.7	The PTS L-Ascorbate (L-Asc) Family
+4.B.1	The Nicotinamide Ribonucleoside (NR) Uptake Permease (PnuC) Family
+4.C.1	The Proposed Fatty Acid Transporter (FAT) Family
+4.C.2	The Carnitine O-Acyl Transferase (CrAT) Family
+4.C.3	The Acyl-CoA Thioesterase (AcoT) Family
+5.A.1	The Disulfide Bond Oxidoreductase D (DsbD) Family
+5.A.2	The Disulfide Bond Oxidoreductase B (DsbB) Family
+5.A.3	The Prokaryotic Molybdopterin-containing Oxidoreductase (PMO) Family
+5.A.4	The Prokaryotic Succinate Dehydrogenase (SDH) Family
+5.B.1	The Phagocyte (gp91<sup>phox</sup>) NADPH Oxidase Family
+5.B.2	The Eukaryotic Cytochrome b<sub>561</sub> (Cytb<sub>561</sub>) Family
+5.B.3	The <i>Geobacter</i> Nanowire Electron Transfer (G-NET) Family
+5.B.4	The Plant Photosystem I Supercomplex (PSI) Family
+5.B.5	The Extracellular Metal Oxido-Reductase (EMOR) Family
+5.B.6	The Cytochrome b<sub>561</sub> (Cytb<sub>561</sub>) Family   
+8.A.1	The Membrane Fusion Protein (MFP) Family
+8.A.10	The Slow Voltage-gated K<sup size=2>+</sup><font face='times'> Channel Accessory Protein (MinK) Family
+8.A.11	The Immunophilin-like Prolyl:peptidyl Isomerase Regulator (I-PPI) Family
+8.A.12	ABC Bacteriocin Exporter Accessory Protein (BEA) Family
+8.A.13	The Tetratricopeptide Repeat (Tpr1) Family
+8.A.14	The Ca<sup>2+</sup>-activated K<sup>+</sup> Channel Auxiliary Subunit Slowpoke-&beta; (Slo&beta;) Family
+8.A.15	The K<sup>+</sup> Channel Accessory Protein (KChAP) Family
+8.A.16	The Ca<sup>+</sup> Channel Auxiliary Subunit &gamma;1-&gamma;8 (CCA&gamma;) Family
+8.A.17	The Na<sup>+</sup> Channel Auxiliary Subunit &beta;1-&beta;4 (SCA-&beta;) Family
+8.A.18	The Ca<sup>2+</sup> Channel Auxiliary Subunit &alpha;2&delta; Types 1-4 (CCA-&alpha;2&delta;) Family
+8.A.19	The Sodium Channel Auxiliary Subunit TipE (SCAT) Family
+8.A.2	The Secretin Auxiliary Lipoprotein (SAL) Family
+8.A.21	The Stomatin/Podocin/Band 7/Nephrosis.2/SPFH (Stomatin) Family
+8.A.22	The Ca<sup>2+</sup> Channel Auxiliary Subunit &beta; Types 1-4 (CCA-&beta;) Family
+8.A.23	The Basigin (Basigin) Family
+8.A.24	The Ezrin/Radixin/Moesin-binding Phosphoprotein 50 (EBP50) Family
+8.A.25	The Ezrin/Radixin/Moesin (Ezrin) Family
+8.A.26	The <u>G</u>olgi to <u>E</u>R <u>T</u>rafficking Protein (GET3) Family
+8.A.27	The Phospholipid Importer &#946;-subunit (PLI-&#946;) Family
+8.A.28	The Ankyrin (Ankyrin) Family
+8.A.29	The Homer1 (Homer1) Family of Excitation-Contraction Coupling Proteins 
+8.A.3	The Cytoplasmic Membrane-Periplasmic Auxiliary-1 (MPA1) Protein with Cytoplasmic (C) Domain (MPA1-C or MPA1+C) Family
+8.A.30	The Nedd4-Family Interacting Protein-2 (Nedd4) Family
+8.A.31	The Ly-6 Neurotoxin-like Protein1 Precursor (Lynx1) Family 
+8.A.32	The &beta;-Amyloid Cleaving Enzyme (BACE1) Family
+8.A.33	The Fatty Acid Binding Protein (FABP) Family
+8.A.34	The Endophilin (Endophilin) Family
+8.A.4	The Cytoplasmic Membrane-Periplasmic Auxiliary-2 (MPA2) Family
+8.A.5	The Voltage-gated K<sup>+</sup> Channel &beta;-subunit (Kv&beta;) Family
+8.A.6	The Auxiliary Nutrient Transporter (ANT) Family
+8.A.7	The Phosphotransferase System Enzyme I (EI) Family
+8.A.8	The Phosphotransferase System HPr (HPr) Family
+8.A.9	The rBAT Transport Accessory Protein (rBAT) Family
+8.B.1	The Long (4C-C) Scorpion Toxin (L-ST) Superfamily
+8.B.10	The Psalmotoxin-1 (PcTx1) Family
+8.B.11	The Sea Anemone Peptide Toxin (APETx) Family
+8.B.12	The Spider Toxin (STx2) Family
+8.B.13	The Sea Anemone Peptide Toxin Class 2 (Kalicludine) Family
+8.B.14	The Sea Anemone Peptide Toxin, Class 1 (BgK) Family
+8.B.15	The Sea Anenome Peptide Toxin Class 4 (SHTX) Family
+8.B.16	The Maurocalcine Family
+8.B.17	The Sea Anemone Peptide Toxin Class III (ShI) Family
+8.B.2	The Short Scorpion Toxin (SST) Superfamily
+8.B.3	The Huwentoxin-1 (Huwentoxin-1) Family
+8.B.4	The Conotoxin O (Conotoxin) Family
+8.B.5	The Na<sup>+</sup>/K<sup>+</sup>/Ca<sup>2+</sup> Channel Targeting Tarantula Huwentoxin (THT) Family
+8.B.6	The Ca<sup>2+</sup> Channel-targeting Spider Toxin (CST) Family
+8.B.7	The Cl<sup>-</sup> Channel Peptide Inhibitor (GaTx1) Family
+8.B.8	The &alpha;-KTx15 scorpion toxin (&alpha;-KTx15) Family
+8.B.9	The Triflin Toxin (Triflin or CRISP) Family
+8.C.1	The Picrotoxin (Picrotoxin) Family
+9.A.1	The Non ABC Multidrug Exporter (N-MDE) Family
+9.A.10	The Iron/Lead Transporter (ILT) Superfamily
+9.A.11	The Dipicolinic Acid Transporter (DPA-T) Family
+9.A.12	The Peptidoglycolipid Addressing Protein (GAP) Family
+9.A.13	The Colicin J Lysis (Cjl) Family
+9.A.14	The Nuclear Pore Complex (NPC) Family
+9.A.15	The MerE Mercuric Ion (Hg<sup>2+</sup>) Permease (MerE) Family
+9.A.16	The Lysosomal Protein Import (LPI) Family
+9.A.17	The Integral Membrane Peroxisomal Protein Importer-2 (PPI2) Family
+9.A.18	The Putative Peptide Uptake or Activated Fatty Acid Export Permease (PUP) Family
+9.A.19	The Mg<sup>2+</sup> Transporter-E (MgtE) Family
+9.A.2	The MerTP Mercuric Ion (Hg<sup>2+</sup>) Permease (MerTP) Family
+9.A.20	The Low Affinity Cation Transporter (LCT) Family
+9.A.21	The ComC DNA Uptake Competence (ComC) Family
+9.A.22	The NhaE Na<sup>+</sup>(K<sup>+</sup>):H<sup>+</sup> Antiporter (NhaE) Family
+9.A.23	The Niacin/Nicotinamide Transporter (NNT) Family
+9.A.24	The Double Stranded RNA Transporter (dsRNA-T) Family
+9.A.25	RD1 or ESX-1/Snm Protein Secretion System (RD1) Family
+9.A.26	The Lipid-translocating Exporter (LTE) Family
+9.A.27	The Non-Classical Protein Exporter (NCPE) Family
+9.A.28	The Ethanolamine Facilitator (EAF) Family
+9.A.29	The Putative 4-Toluene Sulfonate Uptake Permease (TSUP) Family
+9.A.3	The MerC Mercuric Ion (Hg<sup>2+</sup>) Uptake (MerC) Family
+9.A.30	The Tellurium Ion Resistance (TerC) Family
+9.A.31	The Putative SdpAB Peptide Antibiotic-like Killing Factor Exporter (SdpAB) Family
+9.A.32	The SdpC (Peptide-Antibiotic Killer Factor) Immunity Protein, SdpI (SdpI) Family
+9.A.33	The Pyocin R2 Phage P2 Tail Fiber Protein (Pyocin R2) Family
+9.A.34	The Putative Type VI Symbiosis/Virulence Secretory Pathway (VISP) Family
+9.A.35	The Peptide Translocating Syndecan (Syndecan) Family
+9.A.36	The Ca<sup>2+</sup>-dependent Phospholipid Scramblase (Scramblase) Family
+9.A.37	The Nuclear Import Tax Protein (Tax) Family
+9.A.38	The Bacteriocin Immunity Protein (BIP) Family
+9.A.39	The Gram-positive Bacterial Hemoglobin Receptor (Isd) Family
+9.A.4	The YggT or Fanciful K<sup>+</sup> Uptake-B (FkuB; YggT) Family
+9.A.40	The HlyC/CorC (HCC) Family
+9.A.41	The Capsular Polysaccharide Exporter (CPS-E) Family
+9.A.42	The Mycobacterial PPE41 Protein Secretion System (MPSS) Family
+9.A.43	The Cadmium tolerance Efflux Pump (CTEP) Family
+9.A.44	The EsxA/EsxB Protein Secretion Pathway (EPSP) Family
+9.A.45	The Magnesium Transporter1 (MagT1) Family
+9.A.46	The Putative Low Affinity Ca<sup>2+</sup> Channel (LACC) Family
+9.A.47	The Tight Adherence (Pilus) Biogenesis Apparatus (TABA) Family
+9.A.48	The Unconventional Protein Secretion (UPS) System
+9.A.49	The Transfer Clostridial Plasmid Conjugative System (Tcp-Conj) Family
+9.A.5	The Putative Arginine Transporter (ArgW) Family
+9.A.50	The Nuclear t-RNA exporter (t-Exporter) Family
+9.A.51	The <i>Francisella</i> Siderophore Transporter (FST) Family
+9.A.52	The Microcin J25 (Microsin J25) Family
+9.A.53	The Eukaryotic Riboflavin Transporter (E-RFT) Family
+9.A.54	The Lysosomal Cobalamin (B<sub>12</sub>) Transporter (L-B<sub>12</sub>T) Family
+9.A.6	The ATP Exporter (ATP-E)  Family
+9.A.7	The MerF Mercuric Ion (Hg<sup>2+</sup>) Uptake (MerF) Family
+9.A.8	The Ferrous Iron Uptake (FeoB) Family
+9.A.9	The Low Affinity Fe<sup>2+</sup> Transporter (FeT) Family
+9.B.1	The Metal Homeostasis Protein (MHP) Family
+9.B.10	The Putative Tripartite Zn<sup>2+</sup> Transporter (TZT) Family
+9.B.11	The Gp27/5 T4-baseplate (T4-BP) Family
+9.B.12	The (Salt or Low Temperature) Stress-induced Hydrophobic Peptide (SHP) Family
+9.B.13	The Putative Pore-forming Entericidin (ECN) Family
+9.B.14	The Putative Heme Handling Protein (HHP) Family
+9.B.15	The 4 TMS YbhQ (YbhQ) Family
+9.B.16	The Putative Ductin Channel (Ductin) Family
+9.B.17	The VAMP-associated protein (VAP) Family
+9.B.18	The SecDF-associated Single Transmembrane Protein, YajC (YajC) Family
+9.B.19	The Mn<sup>2+</sup> Homeostasis Protein (MnHP) Family
+9.B.2	The Ca<sup>2+</sup> Homeostasis Protein (CHP) Family
+9.B.20	The Putative Mg<sup>2+</sup> Transporter-C (MgtC) Family
+9.B.21	The Frataxin (Frataxin) Family
+9.B.22	The Leukotoxin Secretion Morphogenesis Protein C (MorC) Family
+9.B.23	The Mistic (Mistic) Family
+9.B.24	The Testis-Enhanced Gene Transfer (TEGT) Family
+9.B.25	The Mitochondrial Inner/Outer Membrane Fusion (MMF) Family
+9.B.26	The PF27 (PF27) Family
+9.B.27	The DedA or YdjX-Z (DedA) Family
+9.B.28	The Putative Permease Duf318 (Duf318) Family
+9.B.29	The YebN (YebN) Family
+9.B.3	The Putative Bacterial Murein Precursor Exporter (MPE) Family
+9.B.30	The Hly III (Hly III) Family
+9.B.31	The YqiH (YqiH) Family
+9.B.32	The Putative Vectorial Glycosyl Polymerization (VGP) Family
+9.B.33	The Sensor Histidine Kinase (SHK) Family
+9.B.34	The Kinase/Phosphatase/Cyclic-GMP Synthase/Cyclic di-GMP Hydrolase (KPSH) Family
+9.B.35	The Putative Thyronine-Transporting Transthyretin (Transthyretin) Family
+9.B.36	The Acid Resistance Membrane Protein (HdeD) Family
+9.B.37	The Huntington-interacting Protein 14 (HIP14) Family
+9.B.38	The Myelin Proteolipid Protein (MPLP) Family
+9.B.39	The Long Chain Fatty Acid Translocase (lcFAT) Family
+9.B.4	The Universal Stress Protein-B (UspB) Family
+9.B.40	The DotA/TraY (DotA/TraY) Family
+9.B.41	The Colicin Lysis Protein (CLP) Family
+9.B.42	The ExeAB (ExeAB) Secretin Assembly/Export Complex
+9.B.43	The YedZ (YedZ) Family
+9.B.44	The YiaA-YiaB (YiaAB) Family
+9.B.46	The <I>Staphylococcus aureus</I> Putative Quorum Sensing Peptide Exporter, AgrB (AgrB) Family
+9.B.47	 The &gamma;-Secretase (&gamma;-Secretase) Family
+9.B.48	The Unknown IT-1 (UIT1) Family
+9.B.49	The Unknown IT-2 (UIT2) Family
+9.B.5	The KX Blood-group Antigen (KXA) Family
+9.B.50	The Unknown IT-3 (UIT3) Family
+9.B.51	The Unknown IT-4 (UIT4) Family
+9.B.52	The Unknown IT-5 (UIT5) Family
+9.B.53	The Unknown IT-6 (UIT6) Family
+9.B.54	The Unknown IT-7 (UIT7) Family
+9.B.55	The Unknown IT-8 (UIT8) Family
+9.B.56	The Unknown IT-9 (UIT9) Family
+9.B.57	The Unknown IT-10 (UIT10) Family
+9.B.58	The Unknown IT-11 (UIT11) Family
+9.B.59	The Putative Peptide Transporter Carbon Starvation CstA (CstA) Family
+9.B.6	The Toxic Hok/Gef Protein (Hok/Gef) Family
+9.B.60	The Glutamine Dumper 1 (GDU1) Family
+9.B.61	The Putative Pore-forming Hydrogenosomal Membrane Protein Hmp35 (Hmp35 ) Family
+9.B.62	The Copper Resistance (CopD) Family
+9.B.63	Human T-Lymphotropic Virus I P13 protein (HTLV1-P13) Family
+9.B.64	The Putative Cholesterol Transporter (Start1) Family
+9.B.65	The Putative Transporter (YhgE) Family
+9.B.66	The Animal Nonclassical Protein  Secretion (NPS) Family
+9.B.67	The Putative Inorganic Carbon (HCO<sub>3</sub><sup>-</sup>) Transporter/O-antigen Polymerase (ICT/OAP) Family
+9.B.68	The Putative Na-independent Organic Solute Carrier Protein (OSCP1) Family
+9.B.69	The Putative Cobalt Transporter (CbtAB) Family
+9.B.7	The Putative Sulfate Transporter (CysZ) Family
+9.B.70	The Multicomponent Putative SpoIIIAE Exporter (SpoIIIA-E) Family
+9.B.71	The Camphor Resistance (CrcB) Family
+9.B.72	The 4 TMS GlpM (GlpM) Family
+9.B.73	Chloroplast Envelope/Cyanobacterial Membrane Protein (CemA) Family
+9.B.74	The <u>P</u>hage <u>I</u>nfection <u>P</u>rotein (PIP) Family
+9.B.75	The Ethanol Utilization/Transport (Eut) Protein Family
+9.B.76	The Goadsporin Immunity Protein, GodI (GodI) Family
+9.B.77	The Meckel Syndrome Protein (Meckelin) Family 
+9.B.78	The Minor Capsid Protein, gp7 of <i>Baccilus subtilis</i> Phage SPP1 (gp7) Family 
+9.B.79	The Putative Metal Transporter (PmtA) Family
+9.B.8	The Canalicular Bile Acid Transporter (C-BAT) Family
+9.B.80	The <i>Bacillus</i> Phage &phi;29 (a Podovirus) DNA Ejection System (&phi;29-E) Family
+9.B.81	The MceB Immunity Protein (MceB) Family
+9.B.82	Endoplasmic Reticulum Retrieval Protein1 (Putative Heavy Metal Transporter) (Rer1) Family
+9.B.83	The Possible Outer Membrane Secretory Protein LeoA (LeoA) Family
+9.B.84	The Hepatic Selenoprotein-P (SelP or SePP) Family
+9.B.85	The Outer Membrane Lipoprotein-A (OmlA) Family
+9.B.86	The Propionicin (Propionicin) Family
+9.B.87	The Selenoprotein P Receptor (SelP-receptor) Family
+9.B.88	The Selenoprotein P Hydrogen Selenide Uptake Protein (SelP) Family
+9.B.89	The Putative Channel-forming 3TMSs MamF (MamF) Family
+9.B.9	The Urate Transporter (UAT) Family
+9.B.90	The Putative Channel Forming 2MTSs MamC (MamC) Family
+9.B.91	The Bacteriocin 41 Immunity Protein (Bac41IP) Family 
+9.B.92	The Folate Receptor (FR) Family
+9.B.93	The Spanin (Spanin) Family
+9.B.94	The Male Sterility-Associated Mitochondrial Protein (MSMP) Family
+9.B.95	The MamG (LG)<sub>4</sub> repeat (MamG) Family
+9.B.96	The PE-PGRS Protein Family
+9.B.97	The Acyltransferase-3/Putative Acetyl-CoA Transporter (ATAT) Family
+9.B.98	The DUF95 (DUF95) Family
+9.B.99	The MipA-interacting Protein (MipA) Family
+9.B.100	The Phage Shock Protein (Psp) Family
+9.B.101	The Cytotoxin-associated Gene Product (CagA) Family
+9.B.102	The YedE/YeeE (YedE/YeeE) Family
+9.B.103	The Putative Ca2+ Uniporter (GC1qR) Family
+9.B.104	The Rhomboid Protease (Rhomboid) Family
+9.B.105	The Lead Resistance Fusion Protein (PbrBC) Family
+9.B.106	The Pock Size-determining Protein (PSDP) Family
+9.B.107	The 8TMS Putative Permease (8-PP) Family
+9.B.108	The Putative 7/8 TMS Porter (P7/8P) Family
+9.B.109	The Putative Archaeal 2 TMS Holin (A2-Hol) Family
+9.B.110	The Putative Polyketide Antibiotic Exporter (PPAE) Family
+9.B.111	The 6TMS Lysyl tRNA synthetase (LysS) Family
+9.B.112	The Stress-inducible Transmembrane Protein (TMPIT1) Family
+9.B.113	The Collagen Secretory Protein, Mia3 (Mia3) Family
+9.B.114	The Vanomycin-sensitivity protein (SanA) Family
+9.B.115	The Putative Integral Membrane Steroid 5α-reductase (SαR) Family
+9.B.116	The Transporter, YvqF (YvqF) Family
+9.B.117	The DUF4190 (DUF4190)Family
+9.B.118	The 11 or 12 TMS YhfT (YhfT) Family
+9.B.119	The Glycan Synthase, Fks1 (Fks1) Family
+9.B.120	The DUF554 (DUF554) Family
+9.B.121	The AsmA (AsmA) Family
+9.B.122	The DUF3592 or PF12158 (DUF3592) Family
+9.B.123	The Lysosomal 7-TMS (TM7SF1) Family
+9.B.124	The DUF805 or PF05656 (DUF805) Family
+9.B.125	The AmpE/CobD (AmpE/CobD) Family
+9.B.126	The Putative Lipid Exporter (YhjD) Family
+9.B.127	The DUF2919 (PF11143) Family
+9.B.128	The O-antigen Polymerase, WzyE (WzyE) Family
+9.B.129	The Membrane Protein MLC1 Family
+9.B.130	The Tetraspan Vesicle Membrane Protein (TVP) Family
+9.B.131	The Post-GPI Attachment Protein (P-GAP2) Family
+9.B.132	The Post-GPI Attachment Protein-3 (P-GAP3) Family
+9.B.133	The Ice Nucleation Protein Secretion System (INP-SS) Family
+9.B.134	The Lysosomal Autophagy and Apoptosis-related Protein, TMEM192 (TMEM192) Family
+9.B.135	The Membrane Trafficking Yip (Yip) Family
+9.B.136	The 2TMS Membrane Protein, YjcH (YjcH) Family
+9.B.137	The Putative Cobalt Transporter (CbtC) Family
+9.B.138	The Putative Mycobacterial Outer Membrane Porin, LprG (LprG; P27) Family
+9.B.139	The Cannabalism Toxin SdpC (SdpC) Family
+9.B.140	The 6 TMS (2 TMS x 3) DUF1206 (DUF1206) Family
+9.B.141	The YibE/F (YibE/F) Family
+9.B.142	The Integral membrane Glycosyltransferase family 39 (GT39) Family
+9.B.143	The 6 TMS DUF1275/Pf06912 (DUF1275) Family
+9.B.144	The DUF3367 (DUF3367) Family
+9.B.145	The DUF389/PF04087 (DUF389) Family
+9.B.146	The Putative Undecaprenyl-phosphate N-Acetylglucosaminyl Transferase (MurG) Family
+9.B.147	The 10 TMS Integral Membrane Protein (10-IMP) Family
+9.B.148	The 4 TMS Putative DMT (4-DMT) Family
+9.B.149	The M50 Peptidase (M50-P) Family
+9.B.150	The DUF502 or Cog2928 (DUF502) Family
+9.B.151	The Uncharacterized 7 TMS Archaeal/Bacterial Protein (7-ABP) Family
+9.B.152	The Viral Nuclear Egress Complex (V-NEC) Family
+9.B.153	The Putative Beta-Barrel Porin/Alpha Amylase or Phenol_MetA-deg (BBP/AA) Family
+9.B.154	The Putative Holin-2 (PH-2) Family
+9.B.155	The Putative Beta Barrel Porin-3 (BBP3) Family
+9.B.156	The Putative 4, 5, 8, 10 TMS Permease (4,5,8,10P) Family
+9.B.157	The Cell Shape-determining MreBCD (MreBCD) Family
+9.B.158	The 4 TMS Putative DMT2 (DMT2) Family
+9.B.159	The Inclusion Membrane Protein (IncA) Family
+9.B.160	The Colicin V Production (CvpA) Family
+9.B.161	The Putative Beta Barrrel Porin-6 (PBBP6) Family
+9.B.162	The Putative Propionibacterium Outer Membrane Porin C (PP-OmpC) Family
+9.B.163	The Putative Beta Barrel Porin-7 (BBP7) Family
+9.B.164	The DUF1302 putative beta barrel porin (DUF1302) family
+9.B.165	The DUF2490 Putative Beta Barrel Porin (DUF2490) Family
+9.B.167	The DUF2860 Putative Beta Barrel Porin (DUF2860) Family
+9.B.168	The DUF3078 Putative Porin (DUF3078) Family
+9.B.169	The DUF3374 Putative Porin (DUF3374) Family
+9.B.170	The DUF3187 Putative Porin (DUF3187) Family
+9.B.171	The DUF3575 Putative Porin (DUF3575) Family
+9.B.172	The DUF3308 Putative Porin (DUF3308) Family
+9.B.173	The Chemokine, CXCL16 (CXCL16) Family
+9.B.174	The Two Tunnel Gated C-terminal Processing Protease (CTP) Family
+9.B.175	The Putative Uncharacterized Transporter-1 (PUT1) Family
+9.B.176	The N-terminal 4 TMS Membrane Protein (4TMP) Family
+9.B.177	The Tripartite Attachment Complex 40 (TAC40) Family
+9.B.178	The MdmD Complementing Protein 1 (Mcp1) Family
+9.B.179	The MscS/DUF475 (DUF475) Family
+9.B.180	The Tetra Spanning Protein 1 (Tts1) Family
+9.B.181	The Reactive Oxygen Species Modulator 1 (Romo1) Family
+9.B.182	The Inegral Membrane Protein, DUF1129 (DUF1129) Family
+9.B.183	The Wzy Glycosyltransferase (EpsG) Family,
+9.B.184	The Putative Spirochaete Outer Membrane Omp-like Porin (Sp-Omp) Family
+9.C.1	The Endosomal Oligosaccharide Transporter (EOT)
+9.C.10	The Liver Nicotinic/Nicotinamide Transporter
+9.C.11	The Tunneling Nanotube (TNT) Family
+9.C.2	Volume-sensitive Anion Channels (VAC)
+9.C.3	The <i>Rhodococcus erythropolis</i> Porin (REP) Family
+9.C.4	 The Dolichol-linked Oligosaccharide (DO-ERF) Family
+9.C.5	The Endoplasmic Reticulum/Golgi ATP/ADP or AMP Antiport Transporters  (ATP-T)
+9.C.6	The Mitochondrial Outer Membrane Insertion Pathway (MOM-IP) Family
+9.C.7	The Low-affinity, Calcium-blocked, Nonspecific Cation Channel (NSC1) of <I>Saccharomyces cerevisiae</I>
+9.C.8	Has become 2.A.91
+9.C.9	The <i>Acetobacter aceti</i> Acetate Exporter (AAAE)
+NA	NA
+1	(Channels/Pores)
+1.A	(alpha-Type Channels)
+1.B	(beta-Barrel Porins)
+1.C	(Pore-forming Toxins (Proteins and Peptides))
+1.D	(Non-Ribosomally Synthesized Channels)
+1.E	(Holins)
+1.F	(Vesicle Fusion Pores)
+1.G	(Viral Fusion Pores)
+1.H	(Paracellular Channels)
+1.I	(Membrane-bounded Channels)
+1.J	(Virion Egress Pyramidal Apertures)
+1.K	(Phage DNA Injection Channels)
+1.L	(Tunneling Nanotubes, TNTs)
+2	(Electrochemical Potential-driven Transporters)
+2.A	(Porters (uniporters, symporters, antiporters))
+2.B	(Nonribosomally synthesized porters)
+2.C	(Ion-gradient-driven energizers)
+3	(Primary Active Transporters)
+3.A	(P-P-bond-hydrolysis-driven transporters)
+3.B	(Decarboxylation-driven transporters)
+3.C	(Methyltransfer-driven transporters)
+3.D	(Oxidoreduction-driven transporters)
+3.E	(Light absorption-driven transporters)
+4	Group Translocators
+4.A	(Phosphotransfer-driven Group Translocators)
+4.B	(Nicotinamide ribonucleoside uptake transporters)
+4.C	(Acyl CoA ligase-coupled transporters)
+4.D	(Polysaccharide Synthase/Exporters)
+4.E	(Vacuolar Polyphosphate Polymerase-catalyzed Group Translocators)
+5	(Transmembrane Electron Carriers)
+5.A	(Transmembrane 2-electron transfer carriers)
+5.B	(Transmembrane 1-electron transfer carriers)
+8	(Accessory Factors Involved in Transport)
+8.A	(Auxiliary Transport Proteins)
+8.B	(Ribosomally synthesized protein/peptide toxins/agonists that target channels and carriers)
+8.C	(Non-ribosomally synthesized toxins that target channels and pores)
+9	(Incompletely Characterized Transport Systems)
+9.A	(Recognized transporters of unknown biochemical mechanism)
+9.B	(Putative transport proteins)
+9.C	(Functionally characterized transporters lacking identified sequences)
+3.A.1.1	The Carbohydrate Uptake Transporter-1 (CUT1) Family
+3.A.1.2	The Carbohydrate Uptake Transporter-2 (CUT2) Family
+3.A.1.3	The Polar Amino Acid Uptake Transporter (PAAT) Family
+3.A.1.4	The Hydrophobic Amino Acid Uptake Transporter (HAAT) Family
+3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family
+3.A.1.6	The Sulfate/Tungstate Uptake Transporter (SulT) Family
+3.A.1.7	The Phosphate Uptake Transporter (PhoT) Family
+3.A.1.8	The Molybdate Uptake Transporter (MolT) Family
+3.A.1.9	The Phosphonate Uptake Transporter (PhnT) Family
+3.A.1.10	The Ferric Iron Uptake Transporter (FeT) Family
+3.A.1.11	The Polyamine/Opine/Phosphonate Uptake Transporter (POPT) Family
+3.A.1.12	The Quaternary Amine Uptake Transporter (QAT) Family (Similar to 3.A.1.16 and 3.A.1.17)
+3.A.1.13	The Vitamin B12 Uptake Transporter (B12T) Family (Similar to 3.A.1.14)
+3.A.1.14	The Iron Chelate Uptake Transporter (FeCT) Family (Similar to 3.A.1.13 and 3.A.1.15)
+3.A.1.15	The Manganese/Zinc/Iron Chelate Uptake Transporter (MZT) Family (Similar to 3.A.1.12, 3.A.1.14 and 3.A.1.16)
+3.A.1.16	The Nitrate/Nitrite/Cyanate Uptake Transporter (NitT) Family (Similar to 3.A.1.12 and 3.A.1.17)
+3.A.1.17	The Taurine Uptake Transporter (TauT) Family (Similar to 3.A.1.12 and 3.A.1.16)
+3.A.1.18	The Cobalamin Precursor/Cobalt (CPC) Family
+3.A.1.19	The Thiamin Uptake Transporter (ThiT) Family (Most similar to 3.A.1.10, 3.A.1.6 and 3.A.1.8 in that order)
+3.A.1.20	The Brachyspira Iron Transporter (BIT) Family (Most similar to 3.A.1.6, 3.A.1.8 and 3.A.1.11)
+3.A.1.21	The Siderophore-Fe3+ Uptake Transporter (SIUT) Family
+3.A.1.22	The Nickel Uptake Transporter (NiT) Family
+3.A.1.23	The Nickel/Cobalt Uptake Transporter (NiCoT) Family
+3.A.1.24	The Methionine Uptake Transporter (MUT) Family (Similar to 3.A.1.3 and 3.A.1.12)
+3.A.1.25	The Biotin Uptake Transporter (BioMNY) Family
+3.A.1.26	The Putative Thiamine Uptake Transporter (ThiW) Family
+3.A.1.27	The γ-Hexachlorocyclohexane (HCH) Family (Similar to 3.A.1.12 and 3.A.1.24)
+3.A.1.28	The Queuosine (Queuosine) Family
+3.A.1.29	The Methionine Precursor (Met-P) Family
+3.A.1.30	The Thiamin Precursor (Thi-P) Family
+3.A.1.31	The Unknown-ABC1 (U-ABC1) Family
+3.A.1.32	The Cobalamin Precursor (B12-P) Family
+3.A.1.33	The Methylthioadenosine (MTA) Family
+3.A.1.34	The Tryptophan (TrpXYZ) Family
+3.A.1.101	The Capsular Polysaccharide Exporter (CPSE) Family
+3.A.1.102	The Lipooligosaccharide Exporter (LOSE) Family
+3.A.1.103	The Lipopolysaccharide Exporter (LPSE) Family
+3.A.1.104	The Teichoic Acid Exporter (TAE) Family
+3.A.1.105	The Drug Exporter-1 (DrugE1) Family
+3.A.1.106	The Lipid Exporter (LipidE) Family
+3.A.1.107	The Putative Heme Exporter (HemeE) Family
+3.A.1.108	The β-Glucan Exporter (GlucanE) Family
+3.A.1.109	The Protein-1 Exporter (Prot1E) Family
+3.A.1.110	The Protein-2 Exporter (Prot2E) Family
+3.A.1.111	The Peptide-1 Exporter (Pep1E) Family
+3.A.1.112	The Peptide-2 Exporter (Pep2E) Family
+3.A.1.113	The Peptide-3 Exporter (Pep3E) Family
+3.A.1.114	The Probable Glycolipid Exporter (DevE) Family
+3.A.1.115	The Na+ Exporter (NatE) Family
+3.A.1.116	The Microcin B17 Exporter (McbE) Family
+3.A.1.117	The Drug Exporter-2 (DrugE2) Family
+3.A.1.118	The Microcin J25 Exporter (McjD) Family
+3.A.1.119	The Drug/Siderophore Exporter-3 (DrugE3) Family
+3.A.1.120	The (Putative) Drug Resistance ATPase-1 (Drug RA1) Family
+3.A.1.121	The (Putative) Drug Resistance ATPase-2 (Drug RA2) Family
+3.A.1.122	The Macrolide Exporter (MacB) Family
+3.A.1.123	The Peptide-4 Exporter (Pep4E) Family
+3.A.1.124	The 3-component Peptide-5 Exporter (Pep5E) Family
+3.A.1.125	The Lipoprotein Translocase (LPT) Family
+3.A.1.126	The β-Exotoxin I Exporter (βETE) Family
+3.A.1.127	The AmfS Peptide Exporter (AmfS-E) Family
+3.A.1.128	The SkfA Peptide Exporter (SkfA-E) Family
+3.A.1.129	The CydDC Cysteine Exporter (CydDC-E) Family
+3.A.1.130	The Multidrug/Hemolysin Exporter (MHE) Family
+3.A.1.131	The Bacitracin Resistance (Bcr) Family
+3.A.1.132	The Gliding Motility ABC Transporter (Gld) Family
+3.A.1.133	The Peptide-6 Exporter (Pep6E) Family
+3.A.1.134	The Peptide-7 Exporter (Pep7E) Family
+3.A.1.135	The Drug Exporter-4 (DrugE4) Family
+3.A.1.136	The Uncharacterized ABC-3-type (U-ABC3-1) Family
+3.A.1.137	The Uncharacterized ABC-3-type (U-ABC3-2) Family
+3.A.1.138	The Unknown ABC-2-type (ABC2-1) Family
+3.A.1.139	The UDP-Glucose/Iron Exporter (U-GlcE) Family (UPF0014 Family)
+3.A.1.140	The FtsX/FtsE Septation (FtsX/FtsE) Family
+3.A.1.141	The Ethyl Viologen Exporter (EVE) Family (DUF990 Family)
+3.A.1.142	The Glycolipid Flippase (G.L.Flippase) Family
+3.A.1.144	Functionally Uncharacterized ABC2-1 (ABC2-1) Family
+3.A.1.145	Peptidase Fused Functionally Uncharacterized ABC2-2 (ABC2-2) Family
+3.A.1.201	The Multidrug Resistance Exporter (MDR) Family (ABCB)
+3.A.1.202	The Cystic Fibrosis Transmembrane Conductance Exporter (CFTR) Family (ABCC)
+3.A.1.203	The Peroxysomal Fatty Acyl CoA Transporter (P-FAT) Family (ABCD)
+3.A.1.204	The Eye Pigment Precursor Transporter (EPP) Family (ABCG)
+3.A.1.205	The Pleiotropic Drug Resistance (PDR) Family (ABCG)
+3.A.1.206	The a-Factor Sex Pheromone Exporter (STE) Family (ABCB)
+3.A.1.207	The Eukaryotic ABC3 (E-ABC3) Family
+3.A.1.208	The Drug Conjugate Transporter (DCT) Family (ABCC) (Dębska et al., 2011)
+3.A.1.209	The MHC Peptide Transporter (TAP) Family (ABCB)
+3.A.1.210	The Heavy Metal Transporter (HMT) Family (ABCB)
+3.A.1.211	The Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)
+3.A.1.212	The Mitochondrial Peptide Exporter (MPE) Family (ABCB)
+2.A.66.2	The Polysaccharide Transport (PST) Family	Sugar
+2.A.7.5	The Glucose/Ribose Porter (GRP) Family	Sugar
+2.A.7.6	The L-Rhamnose Transporter (RhaT) Family	Sugar
+2.A.7.18	The Choline Uptake Transporter (LicB-T) Family	Lipid
+2.A.1.1	The Sugar Porter (SP) Family	Sugar
+2.A.1.4	The Organophosphate:Pi Antiporter (OPA) Family	Sugar	Sugar phosphates
+2.A.1.5	The Oligosaccharide:H+ Symporter (OHS) Family	Sugar
+2.A.1.6	The Metabolite:H+ Symporter (MHS) Family	OA
+2.A.1.7	The Fucose: H+ Symporter (FHS) Family	Sugar
+2.A.1.10	The Nucleoside: H+ Symporter (NHS) Family	Other
+2.A.1.11	The Oxalate:Formate Antiporter (OFA) Family	OA
+2.A.1.12	The Sialate:H+ Symporter (SHS) Family	OA
+2.A.1.13	The Monocarboxylate Transporter (MCT) Family (Halestrap, 2011)	OA
+2.A.1.14	The Anion:Cation Symporter (ACS) Family	Multiple
+2.A.1.15	The Aromatic Acid:H+ Symporter (AAHS) Family	OA
+2.A.1.18	The Polyol Porter (PP) Family	Sugar
+2.A.1.25	The Peptide-Acetyl-Coenzyme A Transporter (PAT) Family	Peptide	Cell wall degradation products
+2.A.1.27	The Phenyl Propionate Permease (PPP) Family	OA
+2.A.1.52	The Glycerophhosphodiester Uptake (GlpU) Family	Sugar
+2.A.1.53	The Proteobacterial Intraphagosomal Amino Acid Transporter (Pht) Family	AA
+2.A.1.56	The 1,3-Dihydroxybenzene Transporter (DHB-T) Family	Other
+2.A.1.57	The Ferripyochelin Transporter (FptX) Family	Other
+2.A.1.60	The Rhizopine-related MocC (MocC) Family	Other
+2.A.1.68	The Glucose Transporter (GT) Family	Sugar
